@@ -1,31 +1,31 @@
 @font-face {
     font-family: 'C-Regular';
-    src: url('ClarikaGrotesque-Regular.woff2') format('woff2'),
-        url('ClarikaGrotesque-Regular.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/websockz/e/main/ClarikaGrotesque-Regular.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/websockz/e/main/ClarikaGrotesque-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'C-Bold';
-    src: url('ClarikaGrotesque-Bold.woff2') format('woff2'),
-        url('ClarikaGrotesque-Bold.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/websockz/e/main/ClarikaGrotesque-Bold.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/websockz/e/main/ClarikaGrotesque-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'C-Medium';
-    src: url('ClarikaGrotesque-Medium.woff2') format('woff2'),
-        url('ClarikaGrotesque-Medium.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/websockz/e/main/ClarikaGrotesque-Medium.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/websockz/e/main/ClarikaGrotesque-Medium.woff') format('woff');
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'C-Light';
-    src: url('ClarikaGrotesque-Light.woff2') format('woff2'),
-        url('ClarikaGrotesque-Light.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/websockz/e/main/ClarikaGrotesque-Light.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/websockz/e/main/ClarikaGrotesque-Light.woff') format('woff');
     font-weight: 300;
     font-style: normal;
 }
